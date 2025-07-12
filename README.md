@@ -1,3 +1,5 @@
+#Due Diligence AI Agent
+The Due Diligence AI Agent system is designed to automate comprehensive due diligence processes by orchestrating multiple specialized agents. The system includes dedicated agents for extracting legal news, general news, and ratings information from reputable sources such as Fitch and Moody’s, all tailored to a specific asset name. An RPA component generates reports and facilitates seamless email delivery of findings. At the core, the Synthesis Agent aggregates insights from the News, Rating, and Legal Agents to produce a cohesive and actionable report, enabling efficient, data-driven decision-making for company due diligence.
 
 ## Demo Video
 ![Demo GIF](https://github.com/yashwant43/DueDiligenceAIAgent/raw/main/DueDiligenceAgent%20-%20Video.gif)
