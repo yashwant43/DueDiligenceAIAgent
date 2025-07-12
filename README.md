@@ -1,8 +1,6 @@
 
 ## Demo Video
-
-[![Watch the demo](https://github.com/yashwant43/DueDiligenceAIAgent/raw/main/Synthesis%20Agent.png)](https://github.com/yashwant43/DueDiligenceAIAgent/raw/main/DueDiligenceAgent%20-%20Video.mp4)
-
+![Demo GIF](https://github.com/yashwant43/DueDiligenceAIAgent/raw/main/DueDiligenceAgent%20-%20Video.gif)
 
 ## All Agents Snapshot
 ![All Agents Snapshot](https://github.com/yashwant43/DueDiligenceAIAgent/raw/main/All%20Agents%20Snapshot.png)
